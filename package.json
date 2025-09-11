@@ -1,0 +1,59 @@
+{
+  "name": "pod2nix",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kaiiiiiiiii",
+    "email": "kai@i7x.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiiiiiiiii/pod2nix.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Kaiiiiiiiii/pod2nix",
+  "scripts": {
+    "dev": "vite dev --port 3000",
+    "start": "node .output/server/index.mjs",
+    "build": "npm run update-config && vite build",
+    "serve": "vite preview",
+    "test": "vitest run",
+    "lint": "eslint",
+    "format": "prettier -c src",
+    "check": "prettier --write src . && eslint --fix",
+    "check-unused": "depcheck",
+    "update-config": "node scripts/update-config.js"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@tailwindcss/vite": "^4.1.13",
+    "@tanstack/react-form": "^1.19.5",
+    "@tanstack/react-router": "^1.131.36",
+    "@tanstack/react-start": "^1.131.36",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.476.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.13",
+    "vaul": "^1.1.2",
+    "vite-tsconfig-paths": "^5.1.4",
+    "yaml": "^2.8.1",
+    "zod": "4.1.5"
+  },
+  "devDependencies": {
+    "@tanstack/eslint-config": "^0.3.1",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^4.7.0",
+    "depcheck": "^1.4.7",
+    "jsdom": "^26.1.0",
+    "prettier": "^3.6.2",
+    "vite": "^7.1.5",
+    "vitest": "^3.2.4"
+  }
+}

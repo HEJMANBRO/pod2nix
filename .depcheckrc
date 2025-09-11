@@ -1,0 +1,9 @@
+{
+  "ignores": [
+    "tailwindcss"
+  ],
+  "ignore-patterns": [
+    "dist",
+    "stats.html"
+  ]
+}

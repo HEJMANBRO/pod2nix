@@ -1,0 +1,14 @@
+//  @ts-check
+
+/** @type {import('prettier').Config} */
+const config = {
+  semi: true,
+  singleQuote: false,
+  trailingComma: "all",
+  useTabs: false,
+  tabWidth: 2,
+  printWidth: 80,
+  proseWrap: "always",
+};
+
+export default config;

